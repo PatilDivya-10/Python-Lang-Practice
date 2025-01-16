@@ -15,3 +15,8 @@ print(age)
 print(type(name))
 print(type(age))
 print(type(price)) #<class 'float'> output like this
+a=None #None variable
+old= False #Boolean variable use (True or False)
+print(type(a))
+print(type(old))
+
