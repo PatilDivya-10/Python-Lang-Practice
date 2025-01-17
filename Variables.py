@@ -11,7 +11,7 @@ print("My age is:",age)
 #assignment right to left
 age= 21
 print(age)
-#printing he datatype using type() function
+#printing the datatype using type() function
 print(type(name))
 print(type(age))
 print(type(price)) #<class 'float'> output like this
