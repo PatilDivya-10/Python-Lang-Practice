@@ -32,6 +32,23 @@ num **= 10 #use powerof and then assign
 
 print(num)
 
+#Logical Operator
+#not operator
+print(not False)
+print(not True)
+a = 50
+b = 30
+
+#and op
+val1 = True
+val2 = True
+print("and operator :", val1 and val2)
+val1 = False
+val2 = True
+print("or operator:",val1 or val2 )
+
+
+
 
 
 
