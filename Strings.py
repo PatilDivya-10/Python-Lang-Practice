@@ -20,3 +20,11 @@ print(st[:5])#start from 0
 s="Apple"
 print(s[-3:-1]) #pl <- op
 
+#String Functions
+str= "I am a coder."
+print(str.endswith("er.")) #returns true if string ends with substr
+print(str.capitalize()) #capitalize first letter
+print(str.replace("a","o"))# replace substr from the str with new substr
+print(str.find("am")) #return the 1st occurance if exist (no -> -1)
+print(str.count("c")) #no of occurance of substr(1,2,3,etc)
+
